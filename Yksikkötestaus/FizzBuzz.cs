@@ -15,6 +15,12 @@ namespace Yksikkötestaus
             {
                 return "Fizz";
             }
+
+            if (luku == 5)
+            {
+                return "Buzz";
+            }
+
             else
             {
                 return "wuh";
