@@ -94,3 +94,9 @@ C:\Users\Axe\Desktop\C code\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestP
 C:\Users\Axe\Desktop\C code\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.dll
 C:\Users\Axe\Desktop\C code\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.pdb
 C:\Users\Axe\Desktop\C code\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.genruntimeconfig.cache
+C:\Users\Axe\Desktop\C code\Cprokit\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Axe\Desktop\C code\Cprokit\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\Axe\Desktop\C code\Cprokit\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.AssemblyInfo.cs
+C:\Users\Axe\Desktop\C code\Cprokit\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Axe\Desktop\C code\Cprokit\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.dll
+C:\Users\Axe\Desktop\C code\Cprokit\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.pdb

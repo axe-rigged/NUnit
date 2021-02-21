@@ -10,6 +10,7 @@ namespace Yksikkötestaus
     {
         static void Main(string[] args)
         {
+            var fizzer = new FizzBuzz();
         }
     }
 }

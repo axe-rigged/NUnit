@@ -1225,6 +1225,15 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Yksikkötestaus/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Yksikkötestaus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Yksikkötestaus.dll": {}
+        }
       }
     }
   },
@@ -4613,13 +4622,19 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Yksikkötestaus/1.0.0": {
+      "type": "project",
+      "path": "../Yksikkötestaus/Yksikkötestaus.csproj",
+      "msbuildProject": "../Yksikkötestaus/Yksikkötestaus.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
-      "NUnit3TestAdapter >= 3.16.1"
+      "NUnit3TestAdapter >= 3.16.1",
+      "Yksikkötestaus >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4648,7 +4663,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Axe\\Desktop\\C code\\Cprokit\\Yksikkötestaus\\Yksikkötestaus.csproj": {
+              "projectPath": "C:\\Users\\Axe\\Desktop\\C code\\Cprokit\\Yksikkötestaus\\Yksikkötestaus.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

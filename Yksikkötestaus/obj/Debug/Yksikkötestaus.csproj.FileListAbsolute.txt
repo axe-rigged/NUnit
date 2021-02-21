@@ -5,3 +5,10 @@ C:\Users\Axe\Desktop\C code\Yksikkötestaus\obj\Debug\Yksikkötestaus.csprojAsse
 C:\Users\Axe\Desktop\C code\Yksikkötestaus\obj\Debug\Yksikkötestaus.csproj.CoreCompileInputs.cache
 C:\Users\Axe\Desktop\C code\Yksikkötestaus\obj\Debug\Yksikkötestaus.exe
 C:\Users\Axe\Desktop\C code\Yksikkötestaus\obj\Debug\Yksikkötestaus.pdb
+C:\Users\Axe\Desktop\C code\Cprokit\Yksikkötestaus\bin\Debug\Yksikkötestaus.exe.config
+C:\Users\Axe\Desktop\C code\Cprokit\Yksikkötestaus\bin\Debug\Yksikkötestaus.exe
+C:\Users\Axe\Desktop\C code\Cprokit\Yksikkötestaus\bin\Debug\Yksikkötestaus.pdb
+C:\Users\Axe\Desktop\C code\Cprokit\Yksikkötestaus\obj\Debug\Yksikkötestaus.csprojAssemblyReference.cache
+C:\Users\Axe\Desktop\C code\Cprokit\Yksikkötestaus\obj\Debug\Yksikkötestaus.csproj.CoreCompileInputs.cache
+C:\Users\Axe\Desktop\C code\Cprokit\Yksikkötestaus\obj\Debug\Yksikkötestaus.exe
+C:\Users\Axe\Desktop\C code\Cprokit\Yksikkötestaus\obj\Debug\Yksikkötestaus.pdb

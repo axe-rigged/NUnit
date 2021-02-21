@@ -27,7 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Axe\\Desktop\\C code\\Cprokit\\Yksikkötestaus\\Yksikkötestaus.csproj": {
+                "projectPath": "C:\\Users\\Axe\\Desktop\\C code\\Cprokit\\Yksikkötestaus\\Yksikkötestaus.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -70,6 +74,16 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\Axe\\Desktop\\C code\\Cprokit\\Yksikkötestaus\\Yksikkötestaus.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Axe\\Desktop\\C code\\Cprokit\\Yksikkötestaus\\Yksikkötestaus.csproj",
+        "projectName": "Yksikkötestaus",
+        "projectPath": "C:\\Users\\Axe\\Desktop\\C code\\Cprokit\\Yksikkötestaus\\Yksikkötestaus.csproj"
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
