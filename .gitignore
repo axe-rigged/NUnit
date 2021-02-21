@@ -368,7 +368,7 @@ NUnitTestProject1/obj/Debug/netcoreapp3.1/NUnitTestProject1.csprojAssemblyRefere
 NUnitTestProject1/obj/NUnitTestProject1.csproj.nuget.dgspec.json
 NUnitTestProject1/obj/project.assets.json
 NUnitTestProject1/obj/project.nuget.cache
-"Yksikk\303\266testaus/.vs/Yksikk\303\266testaus/v16/.suo"
+"Yksikk\303\266testaus/.vs/Yksikk\303\266testaus/v16/.suo\"
 "Yksikk\303\266testaus/.vs/Yksikk\303\266testaus/v16/TestStore/0/000.testlog"
 "Yksikk\303\266testaus/Yksikk\303\266testaus.csproj"
 "Yksikk\303\266testaus/bin/Debug/Yksikk\303\266testaus.exe"
@@ -379,3 +379,11 @@ NUnitTestProject1/obj/project.nuget.cache
 "Yksikk\303\266testaus/obj/Debug/Yksikk\303\266testaus.csprojAssemblyReference.cache"
 "Yksikk\303\266testaus/obj/Debug/Yksikk\303\266testaus.exe"
 "Yksikk\303\266testaus/obj/Debug/Yksikk\303\266testaus.pdb"
+NUnitTestProject1/bin/*
+NUnitTestProject1/obj/*
+
+*.tmp
+*.cache
+*.txt
+*.testlog
+*.pdb

@@ -32,6 +32,13 @@ namespace NUnitTestProject1
 
             string vastaus = fizzer.Luku(5);
             Assert.AreEqual("Buzz", vastaus);
+        
+        }
+        public void palauttaa()
+        {
+            var fizzer = new FizzBuzz();
+            string vastaus = fizzer.Luku(23);
+            Assert.AreEqual("1", vastaus);
         }
     }
 }
