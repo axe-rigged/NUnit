@@ -15,6 +15,7 @@ namespace Yksikkötestaus
             {
                 return "FizzBuzz";
             }
+
             else if (luku%3==0)
             {
                 return "Fizz";
