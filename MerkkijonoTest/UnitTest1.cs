@@ -1,5 +1,6 @@
 using NUnit.Framework;
 using Merkkijono;
+using System;
 
 namespace MerkkijonoTest
 {
@@ -47,6 +48,14 @@ namespace MerkkijonoTest
             var jono = new Merkkit();
             int pituus = jono.laske("0,8\n9");
             Assert.AreEqual(17, pituus);
+        }
+
+        [Test]
+        public void eiylituhat()
+        {
+            var jono = new Merkkit();
+            int pituus = jono.laske("1001,1");
+            Assert.AreEqual(1, pituus);
         }
     }
 }

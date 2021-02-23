@@ -1,4 +1,6 @@
-﻿namespace Merkkijono
+﻿using System;
+
+namespace Merkkijono
 {
     public class Merkkit
     {
@@ -23,10 +25,23 @@
 
             foreach (string yksnumero in numbs)
             {
-                sum += int.Parse(yksnumero);
+                int lukuja = int.Parse(yksnumero);
+                
+                if (lukuja < 0)
+                {
+                    throw new ArgumentException("Negatiivisia lukuja ei hyväksytä");
+                }
+
+                if (lukuja > 1000)
+                {
+                    continue;
+                }
+
+                sum += lukuja;
             }
            
             return sum;
+            
             
         }
     }
