@@ -57,5 +57,12 @@ namespace MerkkijonoTest
             int pituus = jono.laske("1001,1");
             Assert.AreEqual(1, pituus);
         }
+        [Test]
+        public void desi()
+        {
+            var jono = new Merkkit();
+            int pituus = jono.laske("1,038");
+            Assert.AreEqual(1, pituus);
+        }
     }
 }

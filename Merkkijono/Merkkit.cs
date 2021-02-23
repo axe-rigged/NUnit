@@ -18,7 +18,7 @@ namespace Merkkijono
                 return 0;
             }
 
-            char[] rikkoja = new char[] { ',', '\n' };
+            char[] rikkoja = new char[] { ',', '\n'};
             string[] numbs = x.Split(rikkoja);
 
             int sum = 0;

@@ -12,6 +12,13 @@ namespace Merkkijono
         {
             var jono = new Merkkit();
 
+            Console.WriteLine("Merkkijono laskia.");
+            Console.WriteLine("Anna numeroita pilkulla erotettuna, esimerkiksi; 1,2,3");
+            Console.WriteLine("###################################\n");
+
+            var y = Console.ReadLine();
+            Console.WriteLine("Summa näiden lukujen on: " + jono.laske(y));
+            Console.ReadKey();
         }
     }
 }
