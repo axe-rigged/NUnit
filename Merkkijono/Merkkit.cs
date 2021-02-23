@@ -10,10 +10,24 @@
 
         public int laske(string x)
         {
-            
-            
 
-            return 0;
+            if (x.Length == 0)
+            {
+                return 0;
+            }
+
+            char[] rikkoja = new char[] { ',', '\n' };
+            string[] numbs = x.Split(rikkoja);
+
+            int sum = 0;
+
+            foreach (string yksnumero in numbs)
+            {
+                sum += int.Parse(yksnumero);
+            }
+           
+            return sum;
+            
         }
     }
 
